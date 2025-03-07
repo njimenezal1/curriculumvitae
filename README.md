@@ -15,12 +15,5 @@
     <li>Lugar de nacimiento: <strong>Gotham City</strong></li>
 </ul>
 
-<h2>Formación académica</h2>
-<ul>
-    <li>1956–1961: <strong>Universidad del Espantapájaros</strong></li>
-    <li>1952–1956: <strong>Instituto de Dos Caras</strong></li>
-    <li>1944–1952: <strong>Escuela Primaria del Joker</strong></li>
-</ul>
-
 </body>
 </html>
